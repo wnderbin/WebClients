@@ -26,7 +26,7 @@ Info:
 ├─ Language: Go 1.23.5
 ├─ Tested on: Linux
 ├─ Dependencies: -
-└─ Author: oni-engineer
+└─ Author: wnderbin
 
 Documentation:
     ├─ Launch:
