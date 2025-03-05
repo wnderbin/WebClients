@@ -17,7 +17,7 @@
 _______________________________________________________________
                               ABOUT
 _______________________________________________________________
-Golang clients v1.4 [Golang] by oni-engineer
+Golang clients v1.4 [Golang] by wnderbin
 
 Info:
 ├─ Description: Simple web clients in Golang
